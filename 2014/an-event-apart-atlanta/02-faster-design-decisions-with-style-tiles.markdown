@@ -16,12 +16,12 @@
 - There had to be a better way.
 - Style Tile. Beginning of a design system. Not pages, a system.
     - Content Out, not Canvas In
-    - Mark Boulton - A Richer Canvas
+    - Mark Boulton - [A Richer Canvas](http://www.markboulton.co.uk/journal/a-richer-canvas)
 - Words mean different things to different people.
     - What do clients mean when they say things?
     - What do we mean by responsive, style tile, etc.
-    - “Newsy” - USA Today, NYTimes are both newsy. We aren’t describing what we want.
-    - “Clean” - Apple, Jon Tan. Both are clean, but different ways.
+    - “Newsy” - [USA Today](http://www.usatoday.com/), [NYTimes](http://www.nytimes.com/) are both newsy. We aren’t describing what we want.
+    - “Clean” - [Apple](http://www.apple.com/), [Jon Tan](http://v1.jontangerine.com/). Both are clean, but different ways.
     - “Playful” - she worked at an agency in DC. Last week of project, the client requested more playful icons. Looked at PBSKids - bubbly, round, bright. Not playful enough. Went over and over with more playful icons. Burnt through the budget. Finally heard she wanted hand-drawn, like a kid made it. 
     - Felt like there had to be a better way to get on the same page about what words meant to avoid getting stuck in little details/aesthetic preferences.
 - Moodboard
@@ -93,9 +93,9 @@
         - There’s still the CMS, the pieces that evolve over time, the ways relevance changes
         - The role of a designer is basically that of a good host, anticipating needs of the guest.
         - This is designing a system instead of pages
-        - Designing a System ((http://24ways.org/2012/design-systems/)[24ways article])
-        - Pattern Library: (https://ux.mailchimp.com/patterns)[MailChimp]. It ain’t Bootstrap. Not about the front end architecture. Make it for whatever system you work within.
-        - (http://style.codeforamerica.org/)[Code for America’s pattern library]
+        - Designing a System ([24ways article](http://24ways.org/2012/design-systems/))
+        - Pattern Library: [MailChimp](https://ux.mailchimp.com/patterns). It ain’t Bootstrap. Not about the front end architecture. Make it for whatever system you work within.
+        - [Code for America’s pattern library](http://style.codeforamerica.org/)
         - Gazebo Component Library (for people working on Twitter sites)
         - Typography, color systems
         - Isolate elements, components, templates, compositions that a designer uses over time
@@ -127,6 +127,6 @@
         - Other folks have been doing IA, structure, components, etc. - this shows how those things behave without design.
         - Built a unique comp to combine the styles with the components
         - Then built a component library with all the possibilities they’ll need to be successful over time.
-    - (www.styletile.es)[www.styletile.es]
+    - [www.styletile.es](www.styletile.es)
     - Problem is designing a better process, not designing a better sites.
     - Life’s work is an ongoing evolution of process. If we share it, we all get better.
