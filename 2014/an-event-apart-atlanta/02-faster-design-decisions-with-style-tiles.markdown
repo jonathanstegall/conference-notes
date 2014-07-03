@@ -1,0 +1,132 @@
+# An Event Apart Atlanta 2014
+## Faster Design Decisions with Style Tiles - Samantha Warren (@samanthatoy)
+
+- The only thing certain in our industry is change. Style tiles are a framework for managing change through flexible design.
+- As designers, why do we do the things we do? How do we develop processes? Do we just inherit them? Is it time to rethink/redesign our process?
+- When she starts a new project, gets designer dilemma. “What do I do?”
+    - **Clients and requirements** - have to work around this
+    - **Efficiency** - only have two weeks to do ___ worth of work
+    - **Work everywhere** - has to be responsive; this has revolutionized how we do sites
+- Content Management System - this is the elephant in the room. You hand over the keys and someone puts in stuff you didn’t think would go there.
+- We can’t just design for content; we need to design for all the possibilities it can have.
+- Designers present multiple fixed width comps to clients. We want to show them options and give them what they paid for. Options that look completely different; designed in siloes. They immediately pick stuff from each option and try to merge them. This is soul crushing.
+- We are presenting websites the way Don Draper presented advertising in the 60s. Comparing web design to posters.
+- **Frankencomp**
+- Why?
+- There had to be a better way.
+- Style Tile. Beginning of a design system. Not pages, a system.
+    - Content Out, not Canvas In
+    - Mark Boulton - A Richer Canvas
+- Words mean different things to different people.
+    - What do clients mean when they say things?
+    - What do we mean by responsive, style tile, etc.
+    - “Newsy” - USA Today, NYTimes are both newsy. We aren’t describing what we want.
+    - “Clean” - Apple, Jon Tan. Both are clean, but different ways.
+    - “Playful” - she worked at an agency in DC. Last week of project, the client requested more playful icons. Looked at PBSKids - bubbly, round, bright. Not playful enough. Went over and over with more playful icons. Burnt through the budget. Finally heard she wanted hand-drawn, like a kid made it. 
+    - Felt like there had to be a better way to get on the same page about what words meant to avoid getting stuck in little details/aesthetic preferences.
+- Moodboard
+    - Establishing a new identity for a client. Concepts & emotions, startups, nonprofits. Collages, maybe.
+    - When they don’t know what the feeling of the brand is. Put together logo, words, images into collage.
+    - They are too vague for most clients.
+    - Really pretty, but how is it related to a website? (chair doesn’t translate to button)
+- Comp / mockup
+    - Bring client one mockup from the beginning. Low budgets or sites that are refined. No rounds of revisions: this is the only option. Also, she was the client. She was the website chair of the organization.
+    - Too precise. They get hung up on icons, text length, background colors, and it becomes hard to move foward.
+- Went to the architect’s open house
+    - Architectural drawings with important info: where building would be, who the building was for, what neighborhood it was in, who and how it would be accessed - requirements to figure out/work around
+    - Another room: paint swatches, carpet tiles, wallpaper samples all over the walls.
+    - Drawings: how to build the building
+    - Swatches/tiles: emotional feeling and preferences with samples. Ex: we know they need hardwood, but what style of hardwood?
+- Style Tile
+    - Logo / header
+    - Type
+    - Colors
+    - Buttons
+    - UI elements
+    - What do I have options for, what can I get client’s preferences on?
+    - Separates style and structure
+    - They could work on style separately - has more risk and subjectivity attached to it, so they could isolate the risk. Could move forward with architecture.
+    - Device width agnostic
+    - Communication around responsive project is good way to help everyone evangelize.
+    - Tile can be anything: maybe it doesn’t need to rethink buttons but it needs to rethink the header
+- How?
+    - Design is about problem solving. Not about making something pretty.
+    - Creating solutions to complex problems, with measurable results. “Create according to plan.”
+    - Generate a definition of success that is separate from taste. How to get everyone on the same page, not thinking through preference.
+- Process
+    - Take clients on the journey so they feel ownership of the process
+    - **Listen**
+        - Client survey with 10 questions
+        - Hold a design kickoff meeting - stakeholders complete survey before the meeting or answer them together
+        - Goal oriented
+            - What are the top 3 user goals?
+            - What are the top 3 business goals?
+            - Ask why? Why is this important to users/business goals?
+            - Generate success separate from taste
+        - Exploratory questions
+            - Audience, competitors, etc.
+        - Metaphor questions
+            - Product/service is like a ____. If it were a ___, it would be a ____ and why?
+            - They start using adjectives - the “why” is what is important.
+        - Degree of questions
+            - On a scale of 1 to 5, how strongly do you feel the site should be _____? (good if they already have things they want)
+            - ex: illustrative = mailchimp, typographic = nytimes
+    - **Interpret**
+        - Designers compare themselves to artists, but we are more like therapists. We want to know what they really meant by all the questions we’ve asked.
+        - Blanket adjectives: patriotic, authoritative, american, readable/publishing. red/white/blue style tiles. already cut down the time.
+        - Aggregate adjectives from the answers
+        - Same, middle, different is one way to compile. Words that are similar to what they currently have, things a little different, things very far from what they have. Number/label of piles depends on their answers/who they are.
+        - Break down big ideas into smaller pieces. Translate words into visuals.
+        - Elements & Principles of design
+            - **Elements**: line, color, shape, form, pattern, space, texture
+            - **Principles**: unity, harmony, balance, rhythm, contrast, emphasis
+            - Line could be normal, happy, sad, whimsical, etc.
+            - Humans make subconscious assumptions based on these visual cues
+    - **Define a visual language**
+        - Soft (soft shadows) friendly (bubbly, inviting), people focused (lots of faces), happy (bright color palette)
+        - Does the correlation mean the same to you?
+    - **Iterate**
+        - With style tiles, it’s not as horrible to merge the different ones, change the color palette, etc.
+        - You can isolate what they get stuck on: ex, iterate on options of color palettes
+        - Don’t make a big reveal, bring them along with you.
+    - Style tiles are just one tool
+        - There’s still the CMS, the pieces that evolve over time, the ways relevance changes
+        - The role of a designer is basically that of a good host, anticipating needs of the guest.
+        - This is designing a system instead of pages
+        - Designing a System ((http://24ways.org/2012/design-systems/)[24ways article])
+        - Pattern Library: (https://ux.mailchimp.com/patterns)[MailChimp]. It ain’t Bootstrap. Not about the front end architecture. Make it for whatever system you work within.
+        - (http://style.codeforamerica.org/)[Code for America’s pattern library]
+        - Gazebo Component Library (for people working on Twitter sites)
+        - Typography, color systems
+        - Isolate elements, components, templates, compositions that a designer uses over time
+        - Ex: pair a component with a quotable tweet
+        - Compound component: something like a nav bar with a search box
+        - This can be hi-fi or lo-fi. Make constraints, like a grid system, variations within the columns
+        - A composition will be a unique design within a system: ex carousels are used on the front page
+        - They can then get a style guide to anticipate needs: they’re going to need tabular data once they get into the wysiwyg, make it look good from the getgo.
+    - Deliverables
+        - Style Tile
+        - Style guide with grids and templates and unique pages and wysiwyg elements
+    - “A beautiful design system is about finding the same balance of consistency and variety”
+    - Example
+        - Beautiful logo
+        - Branding agency gave them a style guide with color palette, typefaces that might not be licensed for the web, strange grouping of icons that don’t match IA, etc. “make site look prettty”
+        - Save the kitten
+        - Business cards, catalog print thing
+        - Let’s talk
+    - If org was represented by a celebrity who would it be and why?
+        - Pat Sayjak bc we are **consistent** and **friendly** without being too in the way of **getting the job done**
+        - Katy Perry because we have **fun** while doing a great job. develop relationships with **communities** and bring them **joy**.
+        - Denzel because **no nonsense**. Go into communities and **change things**, no questions asked. **Bold**.
+        - Same (moderate, philanthropic, pat sayjak)
+        - Middle (readable, usable, clean, toyota, katy perry)
+        - Different (bright, fresh, inviting, polished, denzel)
+        - Start with extremes, go to middle after that
+        - Pair them with Tiles
+        - They get rid of one, then combine the other two. Better to do this in the stylistic preferences than in a frankencomp. Discuss what works in each and make a good tile.
+        - Other folks have been doing IA, structure, components, etc. - this shows how those things behave without design.
+        - Built a unique comp to combine the styles with the components
+        - Then built a component library with all the possibilities they’ll need to be successful over time.
+    - (www.styletile.es)[www.styletile.es]
+    - Problem is designing a better process, not designing a better sites.
+    - Life’s work is an ongoing evolution of process. If we share it, we all get better.
