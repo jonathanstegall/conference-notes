@@ -1,5 +1,5 @@
 # An Event Apart Atlanta 2014
-## Faster Design Decisions with Style Tiles - Samantha Warren (@samanthatoy)
+## Faster Design Decisions with Style Tiles - Samantha Warren ([@samanthatoy](http://twitter.com/samanthatoy))
 
 - The only thing certain in our industry is change. Style tiles are a framework for managing change through flexible design.
 - As designers, why do we do the things we do? How do we develop processes? Do we just inherit them? Is it time to rethink/redesign our process?
