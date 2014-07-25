@@ -1,0 +1,159 @@
+# UX Thursday Atlanta 2014
+## Discuss Design Without Losing Your Mind - Adam Connor ([@adamconnor](http://twitter.com/adamconnor))
+
+- Conversations can hurt
+- We have trouble giving feedback ourselves; it’s not just others.
+- If we want to work with other people (we have to) we have to think about the way we talk to one another (devs, stakeholders, BAs, other designers).
+- Critical thinking
+    - Critique - is this thing going to meet its objectives?
+    - We ask for “feedback” but this is a very weak term. Feedback is just a reaction.
+    - Critique is analysis. It requires you to think about what you are looking at and try to understand something about it.
+    - “What was the designer trying to do? Do the decisions they made help achieve that?”
+- There are two facets to critique: giving & receiving. At their foundation is intent.
+    - Giving critique with wrong intent is self focused.
+        - Designers saying they could’ve done better whenever Twitter/Apple/FB releases something new.
+    - Giving critique with right intent is objective focused. Wanting to understand objective, and how decisions work toward it.
+        - Use a filter
+            - Gather initial thoughts and reactions. Revisit them in the right context.
+            - “Why does it make me want to puke?”
+        - Don’t assume
+            - Find out the reason behind thinking, constraints or other variables.
+        - Don’t invite yourself
+            - Get in touch and ask to chat about the design (designer has to be ready/able to listen)
+        - Lead with questions
+            - Show an interest in their process.
+            - Gives you more info to form analysis
+            - Helps designer feel like you are interested in what they did
+        - Talk about strengths
+            - Critique isn’t about just things that aren’t working.
+            - Can lose lots of work that way.
+        - Receiving critique with the right intent takes humility and restraint.
+            - Remember the purpose. Critique is about understanding and improvement, not judgment.
+            - Think before responding. Do you understand what the critics are saying?
+                - Human nature is to start formulating response & stop listening. Stop that.
+            - Participate. Analyze your proposed solution with everyone else.
+                - It’s ok to take this thing apart. They can do it, too.
+            - Set the foundation. Use prior agreements and objectives to get everyrone on the same page.
+                - Not just “ta da”; that sets up reaction
+- Four basic questions
+    - What was the creator trying to achieve?
+    - How did they try to achieve it?
+    - How effective were their choices?
+    - Why is or isn’t what they did effective?
+- Be mindful of scope
+    - Best friend when we don’t want to do something.
+    - Worst enemy when we want to do something.
+    - Let’s talk about the things we can work on, not the stuff you’d like to do and can’t do anything about.
+- Rules
+    - Avoid problem solving.
+        - Like when users start trying to think of a solution during a usability test. Not purpose of a critique; purpose is to understand the thing in front of you, not some other solution.
+        - Let’s wrap up this critique, then we can explore those other solutions separately.
+    - Everyone is equal.
+        - Have to make sure of this, or will be misled.
+    - Everyone is a critic.
+        - Silent people will cause problems down the road.
+    - The designer is responsible for next steps.
+        - Not go off into a cave and make changes; but “there is no checklist coming out of a critique.”
+        - It’s not: I’m going to change that font, move that checkbox
+        - It’s: I’m going to think about this holistically. Hopefully by collaborating with your teammates.
+    - Set the right foundation
+        - Personas: user archetypes that describe behaviors, goals, expectations, knowledge, etc.
+            - Demographics tell us nothing. Behaviors tell us stuff.
+        - Goals
+            - Desired, measurable outcomes of the user interacting with the product or service. Can be user oriented, business oriented, or both.
+            - We have to be able to measure the experience and compare it to discover gaps.
+        - Principles
+            - Desired characteristics or qualities of the final solution
+            - Ambiguous, but really great for instilling personality into products and making them feel less cold, and for building consistency.
+        - Scenarios
+            - Short narratives that describe the desired behaviors, thoughts, reactions, emotions, etc. of the user as they move through a particular flow or use case.
+            - Guidelines for design decisions.
+            - Easy to stop looking at them.
+- Places where this can happen
+    - Standalone critiques
+        - Nothing but a session about the design. Critiquing it, analyzing it, iterating it.
+        - Any time.
+        - Observe & evaluate -> synthesize -> create or refine -> again
+        - Critique is one method of observe/evaluate. Allows us to go faster than relying on users every time - can do it more often this way.
+        - Critique is iteration and improvement. If you want to improve, you have room for critique.
+        - Who gets invitation?
+            - Entire team makes design decisions; entire team should be in critique. Not necessarily all at once. Dependent on what you want to learn each time. Also be aware of personalities. Some people suck at this. Find other ways to talk to them.
+            - 3 - 6 people is a good size to still get a cohesive conversation.
+        - Start things off on the right foot.
+            - Set context for conversation. Maybe send things out ahead of time.
+            - Designers love ta-da moment. But it sets people up just to react. Ask for a pat on the back if you need one, don’t use the ta-da for it.
+            - They will look ahead and draw conclusions, but you can facilitate past that and let them analyze in their own minds.
+            - Clearly describe what you are trying to do, and present quickly. Don’t fill 20 out of 30 minutes with your presentation.
+            - Be careful with constraints. Don’t start with that. They sound like excuses - they should come out in conversation as details.
+        - Facilitating critique
+            - Kevin Hoffman workshops, facilitation workshops, etc. will aid
+            - Critique goals - exactly what to get feedback on
+            - Active listening - state it back and ask if it is correct understanding
+            - Round robin & quotas - hard for someone to go first, so you add some structure. We go around the room and hear 2 things that work and 1 thing that doesn’t according to these goals.
+            - Direct inquiry - ask directly if necessary, especially if they have relevant expertise
+            - Six thinking hats - everyone wears a certain color hat. Each hat is a certain way of looking at whatever it is. Emotional qualities, negative qualities, etc. are examples. Lets people focus on the topic.
+            - Facilitators - someone else can facilitate if you are very uneasy. But get the hang of it as the designer. You’ll have to go figure out how to act on it.
+            - You will meet difficult people.
+                - Be prepared to deal with them.
+                - Set expectations/context, make sure everyone understands what critique is and agrees to it.
+                - Ask quiet people for feedback directly so it doesn’t come out later.
+                - Use foundation to facilitate conversation.
+                - Get past subjective, personal opinion.
+            - 5 whys - ask why, tactfully, over and over. They’ll drill further into personal opinion to find insight, or they’ll realize it’s irrelevant.
+            - Do it individually if you have to. Maybe with stakeholders in older mindsets.
+                - Doctors apparently don’t like these methods. You just get together with them and nudge the conversation.
+                - In groups, those folks will feel like they should be in control and derail others. They can be better then, or skip it because you have their back.
+            - What comes next?
+                - Thank people. Let them know what you’ll follow back with them on, what’s going to happen, how their time is beneficial, what you might ask for more feedback on.
+        - Design reviews
+            - These are problematic for critique. “It’s a trap”
+            - No one else in the room thinks it’s about critique; they think it’s about approval and moving on to the next thing. This isn’t critique.
+            - Often too many people in the room.
+            - Outcomes are often checklists (move that there, change that language, make that thing blue)
+            - Critique is about understanding, not changes.
+            - Solving review problem
+                - Take control. Get in front of meeting, organize it, kick it off, set foundation, get people to talk in certain ways.
+                - Recap objectives (what you were trying to do, goals/personas/etc.)
+                - Pretend you’re dealing with difficult/hostile people. 5 whys, facilitation tricks, etc.
+                - Don’t rely on them for critique. Many organizations still require these in order to make anything happen. Get feedback ahead of time if this is the approval method so everyone has already seen it.
+        - Collaborative activities
+            - You have to do these.
+            - They can devolve into brainstorms.
+                - Normal brainstorm = someone had a challenge they couldn’t figure out, so they get a bunch of people’s input in a meeting.
+                - Originally not this. Originally was a way to get more ideas out of a group than out of individuals.
+                - Design by committee are prevalent in these discussions.
+                - Goal for person facilitating it just becomes “say yes to something” rather than the best thing. Frankenstein solutions.
+            - Split session in half
+            - Divergent thinking
+                - Remove ability to analyze
+                - Sketch 6 ideas in 5 minutes.
+            - Convergent thinking
+                - People work at collecting, organizing, eliminating, choosing, refining, pairing ideas
+            - How do get from divergent to convergent? Critique based on shared objectives.
+            - Great tool to make sure people are on the same page and build consensus/shared ownership
+            - Critique is at the core of collaboration.
+            - Best teams are the ones that just talk this way; they don’t have to think about it. Becomes natural.
+                - You have to take steps back to get to this point.
+- http://discussingdesign.com 
+- http://madpow.com 
+- Q&A
+    - Obligation to participants, especially stakeholders who have to make choices?
+        - Allow stakeholder to share ideas during critique. Maybe in a collaborative workshop, along with everyone else.
+        - Sometimes they suck and you have to deal with ego.
+    - Asking why as an attack?
+        - You don’t have to be a jerk about “5 whys” but “can you tell me more about why you think that way?”
+        - Be eloquent; don’t rely on the word “why?”
+    - Can remote critiques be successful?
+        - Company’s office is 120 miles from his house; he is a remote worker.
+        - These can be productive, but you still have to put constraints on people (6 tops), keep people from talking over one another, facilitate well, use screen sharing that doesn’t suck, etc.
+        - Google Hangouts has been best for them - better than Skype, WebEx, WebMeeting.
+        - Takes practice but it can be done.
+    - What to do when feedback hasn’t been invited?
+        - Go tell them you’d like to share feedback when they are ready.
+        - If they don’t come back, it’s on them.
+        - But if he’s involved in project, he has to make followup. “I’m supposed to be contributing.”
+        - If he can’t address it one on one, he’ll go to a boss.
+    - Who decides when critique/refinement ends?
+        - Some projects are lucky enough to have nebulous timelines. Did votes to find out if people felt like it was ready to move on.
+        - Others, you set specific dates. This thing has to be ready for deployment by this date, wireframes by this date, etc.
+        - Some can be done formally, others informally.
