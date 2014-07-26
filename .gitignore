@@ -1,2 +1,6 @@
 
 *.slides
+
+*.sublime-project
+
+*.sublime-workspace
